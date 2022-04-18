@@ -1,0 +1,10 @@
+C:\Users\Руслан\Desktop\Visual Studi 2012 new4\Progect 5\WPF\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Руслан\Desktop\Visual Studi 2012 new4\Progect 5\WPF\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Руслан\Desktop\Visual Studi 2012 new4\Progect 5\WPF\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Руслан\Desktop\Visual Studi 2012 new4\Progect 5\WPF\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\Tenzist\Desktop\1.3\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Tenzist\Desktop\1.3\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Tenzist\Desktop\1.3\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\Tenzist\Desktop\1.3\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Tenzist\Desktop\1.3\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Tenzist\Desktop\1.3\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

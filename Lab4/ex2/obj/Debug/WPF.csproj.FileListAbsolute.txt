@@ -1,0 +1,38 @@
+C:\Users\Руслан\Desktop\Visual Studi 2012 new4\Progect 5\WPF\WPF\bin\Debug\WPF.exe.config
+C:\Users\Руслан\Desktop\Visual Studi 2012 new4\Progect 5\WPF\WPF\bin\Debug\WPF.exe
+C:\Users\Руслан\Desktop\Visual Studi 2012 new4\Progect 5\WPF\WPF\bin\Debug\WPF.pdb
+C:\Users\Руслан\Desktop\Visual Studi 2012 new4\Progect 5\WPF\WPF\bin\Debug\ClassLibrary1.dll
+C:\Users\Руслан\Desktop\Visual Studi 2012 new4\Progect 5\WPF\WPF\bin\Debug\ClassLibrary1.pdb
+C:\Users\Руслан\Desktop\Visual Studi 2012 new4\Progect 5\WPF\WPF\obj\Debug\WPF.csprojResolveAssemblyReference.cache
+C:\Users\Руслан\Desktop\Visual Studi 2012 new4\Progect 5\WPF\WPF\obj\Debug\MainWindow.baml
+C:\Users\Руслан\Desktop\Visual Studi 2012 new4\Progect 5\WPF\WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Руслан\Desktop\Visual Studi 2012 new4\Progect 5\WPF\WPF\obj\Debug\App.g.cs
+C:\Users\Руслан\Desktop\Visual Studi 2012 new4\Progect 5\WPF\WPF\obj\Debug\WPF_MarkupCompile.cache
+C:\Users\Руслан\Desktop\Visual Studi 2012 new4\Progect 5\WPF\WPF\obj\Debug\WPF.g.resources
+C:\Users\Руслан\Desktop\Visual Studi 2012 new4\Progect 5\WPF\WPF\obj\Debug\WPF.Properties.Resources.resources
+C:\Users\Руслан\Desktop\Visual Studi 2012 new4\Progect 5\WPF\WPF\obj\Debug\WPF.csproj.GenerateResource.Cache
+C:\Users\Руслан\Desktop\Visual Studi 2012 new4\Progect 5\WPF\WPF\obj\Debug\WPF.exe
+C:\Users\Руслан\Desktop\Visual Studi 2012 new4\Progect 5\WPF\WPF\obj\Debug\WPF.pdb
+C:\Users\stud\Desktop\Visual Studi 2012 new4\Progect 5\WPF\WPF\bin\Debug\WPF.exe.config
+C:\Users\stud\Desktop\Visual Studi 2012 new4\Progect 5\WPF\WPF\obj\Debug\WPF.exe
+C:\Users\stud\Desktop\Visual Studi 2012 new4\Progect 5\WPF\WPF\obj\Debug\WPF.pdb
+C:\Users\Руслан\Desktop\Visual Studio 2012\Progect 5\WPF\WPF\bin\Debug\WPF.exe.config
+C:\Users\Руслан\Desktop\Visual Studio 2012\Progect 5\WPF\WPF\obj\Debug\WPF.exe
+C:\Users\Руслан\Desktop\Visual Studio 2012\Progect 5\WPF\WPF\obj\Debug\WPF.pdb
+C:\Users\Tenzist\Desktop\1.3\WPF\bin\Debug\WPF.exe.config
+C:\Users\Tenzist\Desktop\1.3\WPF\bin\Debug\WPF.exe
+C:\Users\Tenzist\Desktop\1.3\WPF\bin\Debug\WPF.pdb
+C:\Users\Tenzist\Desktop\1.3\WPF\bin\Debug\ClassLibrary1.dll
+C:\Users\Tenzist\Desktop\1.3\WPF\bin\Debug\ClassLibrary1.pdb
+C:\Users\Tenzist\Desktop\1.3\WPF\obj\Debug\WPF.csproj.AssemblyReference.cache
+C:\Users\Tenzist\Desktop\1.3\WPF\obj\Debug\MainWindow.baml
+C:\Users\Tenzist\Desktop\1.3\WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Tenzist\Desktop\1.3\WPF\obj\Debug\App.g.cs
+C:\Users\Tenzist\Desktop\1.3\WPF\obj\Debug\WPF_MarkupCompile.cache
+C:\Users\Tenzist\Desktop\1.3\WPF\obj\Debug\WPF.g.resources
+C:\Users\Tenzist\Desktop\1.3\WPF\obj\Debug\WPF.Properties.Resources.resources
+C:\Users\Tenzist\Desktop\1.3\WPF\obj\Debug\WPF.csproj.GenerateResource.cache
+C:\Users\Tenzist\Desktop\1.3\WPF\obj\Debug\WPF.csproj.CoreCompileInputs.cache
+C:\Users\Tenzist\Desktop\1.3\WPF\obj\Debug\WPF.csproj.CopyComplete
+C:\Users\Tenzist\Desktop\1.3\WPF\obj\Debug\WPF.exe
+C:\Users\Tenzist\Desktop\1.3\WPF\obj\Debug\WPF.pdb

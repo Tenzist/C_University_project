@@ -1,0 +1,44 @@
+C:\Users\Руслан\Desktop\Visual Studio 2012 new3\Progect 4\Grid\Grid\bin\Debug\Grid.exe.config
+C:\Users\Руслан\Desktop\Visual Studio 2012 new3\Progect 4\Grid\Grid\bin\Debug\Grid.exe
+C:\Users\Руслан\Desktop\Visual Studio 2012 new3\Progect 4\Grid\Grid\bin\Debug\Grid.pdb
+C:\Users\Руслан\Desktop\Visual Studio 2012 new3\Progect 4\Grid\Grid\obj\Debug\Grid.csprojResolveAssemblyReference.cache
+C:\Users\Руслан\Desktop\Visual Studio 2012 new3\Progect 4\Grid\Grid\obj\Debug\Grid.Form1.resources
+C:\Users\Руслан\Desktop\Visual Studio 2012 new3\Progect 4\Grid\Grid\obj\Debug\Grid.Properties.Resources.resources
+C:\Users\Руслан\Desktop\Visual Studio 2012 new3\Progect 4\Grid\Grid\obj\Debug\Grid.csproj.GenerateResource.Cache
+C:\Users\Руслан\Desktop\Visual Studio 2012 new3\Progect 4\Grid\Grid\obj\Debug\Grid.exe
+C:\Users\Руслан\Desktop\Visual Studio 2012 new3\Progect 4\Grid\Grid\obj\Debug\Grid.pdb
+C:\Users\stud\Desktop\Visual Studio 2012 new3\Progect 4\Grid\Grid\bin\Debug\Grid.exe.config
+C:\Users\stud\Desktop\Visual Studio 2012 new3\Progect 4\Grid\Grid\obj\Debug\Grid.exe
+C:\Users\stud\Desktop\Visual Studio 2012 new3\Progect 4\Grid\Grid\obj\Debug\Grid.pdb
+C:\Users\Руслан\Desktop\Visual Studi 2012 new4\Progect 4\Grid\Grid\bin\Debug\Grid.exe.config
+C:\Users\Руслан\Desktop\Visual Studi 2012 new4\Progect 4\Grid\Grid\obj\Debug\Grid.exe
+C:\Users\Руслан\Desktop\Visual Studi 2012 new4\Progect 4\Grid\Grid\obj\Debug\Grid.pdb
+C:\Users\stud\Desktop\Visual Studi 2012 new4\Progect 4\Grid\Grid\bin\Debug\Grid.exe.config
+C:\Users\stud\Desktop\Visual Studi 2012 new4\Progect 4\Grid\Grid\obj\Debug\Grid.exe
+C:\Users\stud\Desktop\Visual Studi 2012 new4\Progect 4\Grid\Grid\obj\Debug\Grid.pdb
+C:\Users\stud\Desktop\Visual Studi 2012 new4\Progect 4\Grid\Grid\bin\Debug\Grid.exe
+C:\Users\stud\Desktop\Visual Studi 2012 new4\Progect 4\Grid\Grid\bin\Debug\Grid.pdb
+C:\Users\stud\Desktop\Visual Studi 2012 new4\Progect 4\Grid\Grid\obj\Debug\Grid.csprojResolveAssemblyReference.cache
+C:\Users\stud\Desktop\Visual Studi 2012 new4\Progect 4\Grid\Grid\obj\Debug\Grid.Form1.resources
+C:\Users\stud\Desktop\Visual Studi 2012 new4\Progect 4\Grid\Grid\obj\Debug\Grid.Properties.Resources.resources
+C:\Users\stud\Desktop\Visual Studi 2012 new4\Progect 4\Grid\Grid\obj\Debug\Grid.csproj.GenerateResource.Cache
+C:\Users\Tenzist\Desktop\Grid\Grid\bin\Debug\Grid.exe.config
+C:\Users\Tenzist\Desktop\Grid\Grid\bin\Debug\Grid.exe
+C:\Users\Tenzist\Desktop\Grid\Grid\bin\Debug\Grid.pdb
+C:\Users\Tenzist\Desktop\Grid\Grid\obj\Debug\Grid.csproj.AssemblyReference.cache
+C:\Users\Tenzist\Desktop\Grid\Grid\obj\Debug\Grid.Form1.resources
+C:\Users\Tenzist\Desktop\Grid\Grid\obj\Debug\Grid.Properties.Resources.resources
+C:\Users\Tenzist\Desktop\Grid\Grid\obj\Debug\Grid.csproj.GenerateResource.cache
+C:\Users\Tenzist\Desktop\Grid\Grid\obj\Debug\Grid.csproj.CoreCompileInputs.cache
+C:\Users\Tenzist\Desktop\Grid\Grid\obj\Debug\Grid.exe
+C:\Users\Tenzist\Desktop\Grid\Grid\obj\Debug\Grid.pdb
+C:\Users\Tenzist\RiderProjects\Lab4\Grid\bin\Debug\Grid.exe.config
+C:\Users\Tenzist\RiderProjects\Lab4\Grid\bin\Debug\Grid.exe
+C:\Users\Tenzist\RiderProjects\Lab4\Grid\bin\Debug\Grid.pdb
+C:\Users\Tenzist\RiderProjects\Lab4\Grid\obj\Debug\Grid.csproj.AssemblyReference.cache
+C:\Users\Tenzist\RiderProjects\Lab4\Grid\obj\Debug\Grid.Form1.resources
+C:\Users\Tenzist\RiderProjects\Lab4\Grid\obj\Debug\Grid.Properties.Resources.resources
+C:\Users\Tenzist\RiderProjects\Lab4\Grid\obj\Debug\Grid.csproj.GenerateResource.cache
+C:\Users\Tenzist\RiderProjects\Lab4\Grid\obj\Debug\Grid.csproj.CoreCompileInputs.cache
+C:\Users\Tenzist\RiderProjects\Lab4\Grid\obj\Debug\Grid.exe
+C:\Users\Tenzist\RiderProjects\Lab4\Grid\obj\Debug\Grid.pdb

@@ -1,0 +1,17 @@
+C:\Users\Tenzist\RiderProjects\Lab5\ex3\bin\Debug\ex3.exe.config
+C:\Users\Tenzist\RiderProjects\Lab5\ex3\bin\Debug\ex3.exe
+C:\Users\Tenzist\RiderProjects\Lab5\ex3\bin\Debug\ex3.pdb
+C:\Users\Tenzist\RiderProjects\Lab5\ex3\bin\Debug\ClassLibrary1.dll
+C:\Users\Tenzist\RiderProjects\Lab5\ex3\bin\Debug\ClassLibrary1.pdb
+C:\Users\Tenzist\RiderProjects\Lab5\ex3\obj\Debug\ex3.csproj.AssemblyReference.cache
+C:\Users\Tenzist\RiderProjects\Lab5\ex3\obj\Debug\MainWindow.baml
+C:\Users\Tenzist\RiderProjects\Lab5\ex3\obj\Debug\MainWindow.g.cs
+C:\Users\Tenzist\RiderProjects\Lab5\ex3\obj\Debug\App.g.cs
+C:\Users\Tenzist\RiderProjects\Lab5\ex3\obj\Debug\ex3_MarkupCompile.cache
+C:\Users\Tenzist\RiderProjects\Lab5\ex3\obj\Debug\ex3.g.resources
+C:\Users\Tenzist\RiderProjects\Lab5\ex3\obj\Debug\WPF.Properties.Resources.resources
+C:\Users\Tenzist\RiderProjects\Lab5\ex3\obj\Debug\ex3.csproj.GenerateResource.cache
+C:\Users\Tenzist\RiderProjects\Lab5\ex3\obj\Debug\ex3.csproj.CoreCompileInputs.cache
+C:\Users\Tenzist\RiderProjects\Lab5\ex3\obj\Debug\ex3.csproj.CopyComplete
+C:\Users\Tenzist\RiderProjects\Lab5\ex3\obj\Debug\ex3.exe
+C:\Users\Tenzist\RiderProjects\Lab5\ex3\obj\Debug\ex3.pdb

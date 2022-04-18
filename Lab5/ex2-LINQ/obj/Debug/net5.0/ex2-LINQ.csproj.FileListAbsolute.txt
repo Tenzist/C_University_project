@@ -1,0 +1,16 @@
+C:\Users\Tenzist\RiderProjects\Lab5\ex2-LINQ\bin\Debug\net5.0\ex2-LINQ.exe
+C:\Users\Tenzist\RiderProjects\Lab5\ex2-LINQ\bin\Debug\net5.0\ex2-LINQ.deps.json
+C:\Users\Tenzist\RiderProjects\Lab5\ex2-LINQ\bin\Debug\net5.0\ex2-LINQ.runtimeconfig.json
+C:\Users\Tenzist\RiderProjects\Lab5\ex2-LINQ\bin\Debug\net5.0\ex2-LINQ.runtimeconfig.dev.json
+C:\Users\Tenzist\RiderProjects\Lab5\ex2-LINQ\bin\Debug\net5.0\ex2-LINQ.dll
+C:\Users\Tenzist\RiderProjects\Lab5\ex2-LINQ\bin\Debug\net5.0\ref\ex2-LINQ.dll
+C:\Users\Tenzist\RiderProjects\Lab5\ex2-LINQ\bin\Debug\net5.0\ex2-LINQ.pdb
+C:\Users\Tenzist\RiderProjects\Lab5\ex2-LINQ\obj\Debug\net5.0\ex2-LINQ.csproj.AssemblyReference.cache
+C:\Users\Tenzist\RiderProjects\Lab5\ex2-LINQ\obj\Debug\net5.0\ex2-LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tenzist\RiderProjects\Lab5\ex2-LINQ\obj\Debug\net5.0\ex2-LINQ.AssemblyInfoInputs.cache
+C:\Users\Tenzist\RiderProjects\Lab5\ex2-LINQ\obj\Debug\net5.0\ex2-LINQ.AssemblyInfo.cs
+C:\Users\Tenzist\RiderProjects\Lab5\ex2-LINQ\obj\Debug\net5.0\ex2-LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Tenzist\RiderProjects\Lab5\ex2-LINQ\obj\Debug\net5.0\ex2-LINQ.dll
+C:\Users\Tenzist\RiderProjects\Lab5\ex2-LINQ\obj\Debug\net5.0\ref\ex2-LINQ.dll
+C:\Users\Tenzist\RiderProjects\Lab5\ex2-LINQ\obj\Debug\net5.0\ex2-LINQ.pdb
+C:\Users\Tenzist\RiderProjects\Lab5\ex2-LINQ\obj\Debug\net5.0\ex2-LINQ.genruntimeconfig.cache

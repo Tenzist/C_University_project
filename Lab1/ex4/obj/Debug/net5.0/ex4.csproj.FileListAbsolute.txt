@@ -1,0 +1,16 @@
+C:\Users\Tenzist\RiderProjects\Lab1\ex4\bin\Debug\net5.0\ex4.exe
+C:\Users\Tenzist\RiderProjects\Lab1\ex4\bin\Debug\net5.0\ex4.deps.json
+C:\Users\Tenzist\RiderProjects\Lab1\ex4\bin\Debug\net5.0\ex4.runtimeconfig.json
+C:\Users\Tenzist\RiderProjects\Lab1\ex4\bin\Debug\net5.0\ex4.runtimeconfig.dev.json
+C:\Users\Tenzist\RiderProjects\Lab1\ex4\bin\Debug\net5.0\ex4.dll
+C:\Users\Tenzist\RiderProjects\Lab1\ex4\bin\Debug\net5.0\ref\ex4.dll
+C:\Users\Tenzist\RiderProjects\Lab1\ex4\bin\Debug\net5.0\ex4.pdb
+C:\Users\Tenzist\RiderProjects\Lab1\ex4\obj\Debug\net5.0\ex4.csproj.AssemblyReference.cache
+C:\Users\Tenzist\RiderProjects\Lab1\ex4\obj\Debug\net5.0\ex4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tenzist\RiderProjects\Lab1\ex4\obj\Debug\net5.0\ex4.AssemblyInfoInputs.cache
+C:\Users\Tenzist\RiderProjects\Lab1\ex4\obj\Debug\net5.0\ex4.AssemblyInfo.cs
+C:\Users\Tenzist\RiderProjects\Lab1\ex4\obj\Debug\net5.0\ex4.csproj.CoreCompileInputs.cache
+C:\Users\Tenzist\RiderProjects\Lab1\ex4\obj\Debug\net5.0\ex4.dll
+C:\Users\Tenzist\RiderProjects\Lab1\ex4\obj\Debug\net5.0\ref\ex4.dll
+C:\Users\Tenzist\RiderProjects\Lab1\ex4\obj\Debug\net5.0\ex4.pdb
+C:\Users\Tenzist\RiderProjects\Lab1\ex4\obj\Debug\net5.0\ex4.genruntimeconfig.cache

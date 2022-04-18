@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTeammOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TeammOfString Title="Delta2" Year="2022">
+    <Member>
+      <string>Nik0</string>
+    </Member>
+  </TeammOfString>
+</ArrayOfTeammOfString>

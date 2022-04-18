@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTeammOfMember xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TeammOfMember Title="Beta" Year="2019">
+    <Member>
+      <Member Name="perfecto" />
+    </Member>
+  </TeammOfMember>
+  <TeammOfMember Title="Charlie" Year="2007">
+    <Member>
+      <Member Name="Blade" />
+      <Member Name="Glave" />
+    </Member>
+  </TeammOfMember>
+  <TeammOfMember Title="Alpha" Year="2020">
+    <Member>
+      <Member Name="S1mple" />
+      <Member Name="B1t" />
+      <Member Name="headtr1ck" />
+    </Member>
+  </TeammOfMember>
+</ArrayOfTeammOfMember>

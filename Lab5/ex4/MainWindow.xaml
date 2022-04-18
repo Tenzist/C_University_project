@@ -1,0 +1,21 @@
+﻿<Window x:Class="WPFGraph.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Figures" 
+        Height="460" Width="468" MinWidth="464" MinHeight="115">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="90" />
+            <RowDefinition Height="334*" />
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Background="LightGray" Name="gridTop" >
+            <Button Content="Draw" Height="25" HorizontalAlignment="Left" Margin="278,28,0,0" 
+              Name="buttonRedraw" VerticalAlignment="Top" Width="94" RenderTransformOrigin="0.489,-0.053" Click="buttonRedraw_Click" />
+            <RadioButton x:Name="RadioButton1" Content="Ellipse" HorizontalAlignment="Left" Margin="27,10,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.27,-1.948"/>
+            <RadioButton x:Name="RadioButton3" Content="Square" HorizontalAlignment="Left" Margin="27,50,0,0" VerticalAlignment="Top"/>
+            <RadioButton x:Name="RadioButton2" Content="Circle" HorizontalAlignment="Left" Margin="156,10,0,0" VerticalAlignment="Top"/>
+            <RadioButton x:Name="RadioButton4" Content="Rectangle" HorizontalAlignment="Left" Margin="156,50,0,0" VerticalAlignment="Top"/>
+        </Grid>
+        <Canvas Grid.Row="1" Name="canvasGraph" />
+    </Grid>
+</Window>

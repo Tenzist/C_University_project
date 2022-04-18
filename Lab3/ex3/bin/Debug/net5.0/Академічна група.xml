@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AcademicGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Group>КН-421с</Group>
+  <Student>
+    <string>Stud 1</string>
+    <string>Oleh Pakhomov</string>
+    <string>Stud 3</string>
+  </Student>
+</AcademicGroup>

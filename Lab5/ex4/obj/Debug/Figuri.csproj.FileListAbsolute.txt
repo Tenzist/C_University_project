@@ -1,0 +1,29 @@
+C:\Users\stud\Desktop\Visual Studi 2012 new4\Progect 5\Figuri\Figuri\bin\Debug\Figuri.exe.config
+C:\Users\stud\Desktop\Visual Studi 2012 new4\Progect 5\Figuri\Figuri\obj\Debug\MainWindow.baml
+C:\Users\stud\Desktop\Visual Studi 2012 new4\Progect 5\Figuri\Figuri\obj\Debug\MainWindow.g.cs
+C:\Users\stud\Desktop\Visual Studi 2012 new4\Progect 5\Figuri\Figuri\obj\Debug\App.g.cs
+C:\Users\stud\Desktop\Visual Studi 2012 new4\Progect 5\Figuri\Figuri\obj\Debug\Figuri_MarkupCompile.cache
+C:\Users\stud\Desktop\Visual Studi 2012 new4\Progect 5\Figuri\Figuri\obj\Debug\Figuri.g.resources
+C:\Users\stud\Desktop\Visual Studi 2012 new4\Progect 5\Figuri\Figuri\obj\Debug\Figuri.Properties.Resources.resources
+C:\Users\stud\Desktop\Visual Studi 2012 new4\Progect 5\Figuri\Figuri\obj\Debug\Figuri.csproj.GenerateResource.Cache
+C:\Users\stud\Desktop\Visual Studi 2012 new4\Progect 5\Figuri\Figuri\bin\Debug\Figuri.exe
+C:\Users\stud\Desktop\Visual Studi 2012 new4\Progect 5\Figuri\Figuri\bin\Debug\Figuri.pdb
+C:\Users\stud\Desktop\Visual Studi 2012 new4\Progect 5\Figuri\Figuri\obj\Debug\Figuri.exe
+C:\Users\stud\Desktop\Visual Studi 2012 new4\Progect 5\Figuri\Figuri\obj\Debug\Figuri.pdb
+C:\Users\Руслан\Desktop\Visual Studi 2012 new4\Progect 5\Figuri\Figuri\bin\Debug\Figuri.exe.config
+C:\Users\Руслан\Desktop\Visual Studi 2012 new4\Progect 5\Figuri\Figuri\obj\Debug\Figuri.exe
+C:\Users\Руслан\Desktop\Visual Studi 2012 new4\Progect 5\Figuri\Figuri\obj\Debug\Figuri.pdb
+C:\Users\Tenzist\Desktop\1.4\Figuri\bin\Debug\Figuri.exe.config
+C:\Users\Tenzist\Desktop\1.4\Figuri\bin\Debug\Figuri.exe
+C:\Users\Tenzist\Desktop\1.4\Figuri\bin\Debug\Figuri.pdb
+C:\Users\Tenzist\Desktop\1.4\Figuri\obj\Debug\Figuri.csproj.AssemblyReference.cache
+C:\Users\Tenzist\Desktop\1.4\Figuri\obj\Debug\MainWindow.baml
+C:\Users\Tenzist\Desktop\1.4\Figuri\obj\Debug\MainWindow.g.cs
+C:\Users\Tenzist\Desktop\1.4\Figuri\obj\Debug\App.g.cs
+C:\Users\Tenzist\Desktop\1.4\Figuri\obj\Debug\Figuri_MarkupCompile.cache
+C:\Users\Tenzist\Desktop\1.4\Figuri\obj\Debug\Figuri.g.resources
+C:\Users\Tenzist\Desktop\1.4\Figuri\obj\Debug\Figuri.Properties.Resources.resources
+C:\Users\Tenzist\Desktop\1.4\Figuri\obj\Debug\Figuri.csproj.GenerateResource.cache
+C:\Users\Tenzist\Desktop\1.4\Figuri\obj\Debug\Figuri.csproj.CoreCompileInputs.cache
+C:\Users\Tenzist\Desktop\1.4\Figuri\obj\Debug\Figuri.exe
+C:\Users\Tenzist\Desktop\1.4\Figuri\obj\Debug\Figuri.pdb

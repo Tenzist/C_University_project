@@ -1,0 +1,16 @@
+C:\Users\Tenzist\RiderProjects\Lab5\ex2_Lambda\bin\Debug\net5.0\ex2_Lambda.exe
+C:\Users\Tenzist\RiderProjects\Lab5\ex2_Lambda\bin\Debug\net5.0\ex2_Lambda.deps.json
+C:\Users\Tenzist\RiderProjects\Lab5\ex2_Lambda\bin\Debug\net5.0\ex2_Lambda.runtimeconfig.json
+C:\Users\Tenzist\RiderProjects\Lab5\ex2_Lambda\bin\Debug\net5.0\ex2_Lambda.runtimeconfig.dev.json
+C:\Users\Tenzist\RiderProjects\Lab5\ex2_Lambda\bin\Debug\net5.0\ex2_Lambda.dll
+C:\Users\Tenzist\RiderProjects\Lab5\ex2_Lambda\bin\Debug\net5.0\ref\ex2_Lambda.dll
+C:\Users\Tenzist\RiderProjects\Lab5\ex2_Lambda\bin\Debug\net5.0\ex2_Lambda.pdb
+C:\Users\Tenzist\RiderProjects\Lab5\ex2_Lambda\obj\Debug\net5.0\ex2_Lambda.csproj.AssemblyReference.cache
+C:\Users\Tenzist\RiderProjects\Lab5\ex2_Lambda\obj\Debug\net5.0\ex2_Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tenzist\RiderProjects\Lab5\ex2_Lambda\obj\Debug\net5.0\ex2_Lambda.AssemblyInfoInputs.cache
+C:\Users\Tenzist\RiderProjects\Lab5\ex2_Lambda\obj\Debug\net5.0\ex2_Lambda.AssemblyInfo.cs
+C:\Users\Tenzist\RiderProjects\Lab5\ex2_Lambda\obj\Debug\net5.0\ex2_Lambda.csproj.CoreCompileInputs.cache
+C:\Users\Tenzist\RiderProjects\Lab5\ex2_Lambda\obj\Debug\net5.0\ex2_Lambda.dll
+C:\Users\Tenzist\RiderProjects\Lab5\ex2_Lambda\obj\Debug\net5.0\ref\ex2_Lambda.dll
+C:\Users\Tenzist\RiderProjects\Lab5\ex2_Lambda\obj\Debug\net5.0\ex2_Lambda.pdb
+C:\Users\Tenzist\RiderProjects\Lab5\ex2_Lambda\obj\Debug\net5.0\ex2_Lambda.genruntimeconfig.cache
